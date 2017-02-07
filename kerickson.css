@@ -1,0 +1,40 @@
+<style>
+
+      body {
+        background-color: Lavender;
+      }
+
+      h1 {
+        color: DimGray;
+
+      } 
+
+      h2 {
+        color: DimGray;
+      }
+
+      #about-me {
+        color: DimGray;
+      }
+
+      ul.tab {
+        list-style-type: none;
+        border: 1px solid #ccc;
+        background-color: #b0C4DE;
+      }
+
+      ul.tab li {
+        float: left;
+      }
+
+      ul.tab li a {
+        display: inline-block;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        transition: 0.3s;
+        font-size: 17px;
+
+      }
+
+    </style>
