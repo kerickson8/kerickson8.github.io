@@ -1,0 +1,61 @@
+<style>
+
+  #name {
+    font-family: Consolas, monaco, monospace;
+    text-align: left;
+    color: yellow;
+  }
+
+  h2 {
+    font-family: Consolas, monaco, monospace;
+    color: white;
+    text-align: left;
+    font: 6;
+  }
+
+  h3 {
+    font-family: Consolas, monaco, monospace;
+    color: #f92672;
+    margin-left: 50px;
+  }
+
+  body {
+      background-color: #272822;
+  }
+
+  p {
+    font-family: Consolas, monaco, monospace;
+    color: #66d9ef;
+    text-align: left;
+    margin-left: 100px;
+  }
+
+  a {
+    font-family: Consolas, monaco, monospace;
+    color: #a6e22e;
+  }
+
+  object {
+    display: block;
+    margin: auto;
+    position: center;
+  }
+
+  img {
+    display: block;
+    margin-left: 100px;
+  }
+
+  iframe {
+    display: block;
+    margin-left: 100px;
+  }
+
+</style>
+
+
+
+
+
+
+
