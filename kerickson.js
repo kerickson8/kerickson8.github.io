@@ -1,11 +1,14 @@
 function selectTab(tab) {
+
+	var tabLinks = new Array();
+	var contentDivs = new Array();
 	//Hide Unselected Tabs
-	document.getElementById("Resume").style.display="block";
-	document.getElementById("Projects").style.display="block";
-	document.getElementById("Research").style.display="block";
-	document.getElementById("Contact").style.document="block";
+	document.getElementById("tab_1").style.display="hidden";
+	document.getElementById("tab_2").style.display="hidden";
+	document.getElementById("tab_3").style.display="hidden";
+	document.getElementById("tab_4").style.display="hidden";
 
 	//Show the Selected Tab
-	document.getElementById(tab).style.display="block"
+	document.getElementById(tab).style.display="block";
 
 }
