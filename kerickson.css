@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
   #name {
     font-family: Consolas, monaco, monospace;
@@ -13,6 +14,21 @@
     font: 6;
   }
 
+=======
+  #name {
+    font-family: Consolas, monaco, monospace;
+    text-align: left;
+    color: yellow;
+  }
+
+  h2 {
+    font-family: Consolas, monaco, monospace;
+    color: white;
+    text-align: left;
+    font: 6;
+  }
+
+>>>>>>> 02f29d39f8af262d948908cc6902b07aab490e22
   h3 {
     font-family: Consolas, monaco, monospace;
     color: #f92672;
@@ -51,8 +67,12 @@
     margin-left: 100px;
   }
 
+<<<<<<< HEAD
 
   
+=======
+</style>
+>>>>>>> 02f29d39f8af262d948908cc6902b07aab490e22
 
 
 
